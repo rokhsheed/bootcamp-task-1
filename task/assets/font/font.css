@@ -1,0 +1,14 @@
+@font-face {
+    font-family: vazir;
+    src: url(./Vazir-FD.ttf) format(ttf);
+}
+@font-face {
+    font-family: vazir;
+    src: url(./Vazir-Bold-FD.ttf) format(ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: vazir;
+    src: url(./Vazir-Light-FD.ttf) format(ttf);
+font-weight: lighter;
+}
